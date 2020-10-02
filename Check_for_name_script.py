@@ -1,5 +1,6 @@
-name = ['meshal', 'mesho', 'mesh', 'mshoo']
-user_name = input('type your name : ')
+name = ['MESHAL', 'MESHO', 'MESH', 'MSHOO']
+user_name = input('type your name --> ')
+user_name.capitalize()
 age = [30]
 
 for my_age in age:
